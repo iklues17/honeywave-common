@@ -5,9 +5,9 @@ spring:
     config:
       server:
         git:
-          uri: http://70.121.244.190/gitnsam/anyframe/cargo-tracker-config.git
-          username: joon_h.park
-          password: Platform0!
+          uri: http://github.com/jsthahn/honeywave-common.git
+          username: jsthahn
+          password: qnftkwh3
 server:
-  port: 8889
+  port: 8888
 
